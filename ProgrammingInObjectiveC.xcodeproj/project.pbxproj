@@ -26,7 +26,6 @@
 /* Begin PBXFileReference section */
 		953C0C372081FB1D00572F49 /* ex2.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ex2.h; sourceTree = "<group>"; };
 		953C0C382081FB1D00572F49 /* ex2.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ex2.m; sourceTree = "<group>"; };
-		953C0C532082576100572F49 /* Chapter3 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Chapter3; sourceTree = "<group>"; };
 		95CDBDC02081EB6B00D68874 /* ProgrammingInObjectiveC */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ProgrammingInObjectiveC; sourceTree = BUILT_PRODUCTS_DIR; };
 		95CDBDC32081EB6B00D68874 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -51,6 +50,13 @@
 			path = Chapter2;
 			sourceTree = "<group>";
 		};
+		956E3B1620826280000F272D /* Chapter3 */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Chapter3;
+			sourceTree = "<group>";
+		};
 		95CDBDB72081EB6B00D68874 = {
 			isa = PBXGroup;
 			children = (
@@ -70,7 +76,7 @@
 		95CDBDC22081EB6B00D68874 /* ProgrammingInObjectiveC */ = {
 			isa = PBXGroup;
 			children = (
-				953C0C532082576100572F49 /* Chapter3 */,
+				956E3B1620826280000F272D /* Chapter3 */,
 				953C0C362081FAE800572F49 /* Chapter2 */,
 				95CDBDC32081EB6B00D68874 /* main.m */,
 			);
